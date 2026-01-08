@@ -1,3 +1,6 @@
 {
-    "name" : "sumit-kumar-chaurasiya/bsc.csit"
+    "name" : "sumit-kumar-chaurasiya/bsc.csit",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+
 }
