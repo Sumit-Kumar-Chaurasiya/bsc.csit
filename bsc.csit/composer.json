@@ -8,7 +8,7 @@
             "name": "Sumit Kumar Chaurasiya"
         }
     ],
-    "stability": "stable",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {}
 }
