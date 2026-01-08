@@ -1,20 +1,13 @@
 {
     "name": "sumit-kumar-chaurasiya/bsc.csit",
-    "description": "hello",
+    "description": "This repository includes all the materials reuired for BSc.CSIT students. Includes all the practicals and lab materials and softwares.",
     "type": "project",
-    "require": {
-        "sumit-kumar-chaurasiya/bsc.csit": "dev-main"
-    },
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "SumitKumarChaurasiya\\BscCsit\\": "./"
-        }
-    },
     "authors": [
         {
             "name": "Sumit Kumar Chaurasiya"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
