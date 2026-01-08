@@ -1,6 +1,20 @@
 {
-    "name" : "sumit-kumar-chaurasiya/bsc.csit",
-    "minimum-stability": "dev",
-    "prefer-stable": true
-
+    "name": "sumit-kumar-chaurasiya/bsc.csit",
+    "description": "hello",
+    "type": "project",
+    "require": {
+        "sumit-kumar-chaurasiya/bsc.csit": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SumitKumarChaurasiya\\BscCsit\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sumit Kumar Chaurasiya"
+        }
+    ],
+    "minimum-stability": "dev"
 }
